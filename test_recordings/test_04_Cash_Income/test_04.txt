@@ -1,0 +1,27 @@
+Agent
+0:00
+Hello, may I speak with {{customer_name}}?
+
+User
+0:05
+Yes. I am the customer, and I can talk It's service solution property, so only owned by me. I I have the original documents. 
+
+Agent
+0:15
+Thank you. I'm {{agent_name}} from {{company_name}}. You're eligible for a pre-approved Loan Against Property offer up to ₹75 lakh. How much would you like to borrow?
+
+User
+0:26
+I need forty lakh. 
+
+Agent
+0:28
+How do you receive your income—through a bank account or in cash?
+
+User
+0:33
+I am self employed, and I receive my incoming cash. 
+
+Agent
+0:37
+I'm sorry, but this specific offer requires income to be received through a bank account, so you don't meet the criteria at this time. Thank you for your time.

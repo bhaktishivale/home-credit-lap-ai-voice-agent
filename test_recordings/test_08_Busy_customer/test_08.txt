@@ -1,0 +1,42 @@
+Agent
+0:00
+Hello, may I speak with {{customer_name}}?
+
+User
+0:04
+Yes. I'm the customer. 
+
+Agent
+0:06
+Thank you. I'm {{agent_name}} from {{company_name}}. I'm calling regarding a pre-approved Loan Against Property offer. Is this a good time to talk?
+
+User
+0:19
+I am in a meeting right now. Could you call me later? 
+
+Agent
+0:23
+I understand. What would be a convenient time for us to call 
+
+User
+0:28
+Please 
+
+Agent
+0:28
+you back?
+
+User
+0:28
+call me tomorrow around eleven AM. 
+
+Agent
+0:32
+All right, we'll call you tomorrow around 11 AM. Thank you for your 
+
+Tool called :
+end_call
+0:36
+Agent
+0:36
+time.

@@ -1,0 +1,29 @@
+HOME CREDIT LAP AI VOICE AGENT ASSIGNMENT
+
+AI Agent Platform: Retell AI  
+Agent Name: Home LAP Agent
+
+System Prompt: Saved in `01_System_Prompt.txt`
+
+Agent/Public Link: Not provided.  
+Call Log Link: Not provided.
+
+Recording Link: Test call recordings are saved in `02_Test_Recordings`.
+
+Transcript Link: Test call transcripts are available from the completed test calls in Retell AI, where accessible.
+
+Test Results: Saved in `03_Test_Results.xlsx`
+
+Test Scenarios Completed:
+1. Eligible Customer
+2. Agricultural Property
+3. No Original Documents
+4. Cash Income
+5. Invalid Tenure
+6. Loan Above ₹75 Lakh
+7. Existing Loan
+8. Busy Customer
+
+Testing Status: All 8 test scenarios completed.
+
+Note on Link Availability: Due to the limited credits available under the free trial, I prioritized implementing and testing the agent's required conversation flows and eligibility rules while avoiding additional usage that could incur costs. Therefore, I have not provided a separate public agent link or call log link. The available test recordings, transcripts, system prompt, and test results are included or referenced as part of this submission. Thank you for your understanding

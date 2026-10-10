@@ -1,0 +1,91 @@
+Agent
+0:00
+Hello, may I speak with {{customer_name}}?
+
+User
+0:04
+Yes. 
+
+Agent
+0:08
+Thank you. I'm {{agent_name}} from {{company_name}}. I'm calling regarding a pre-approved Loan Against Property offer. Is this a good time to talk?
+
+User
+0:19
+Yes. I can talk now. 
+
+Agent
+0:21
+As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few quick questions to see if it suits you. Is the property residential, commercial, industrial, or agricultural?
+
+User
+0:35
+It's a residential house. 
+
+Agent
+0:37
+Is the property solely owned by you, or jointly owned with someone else?
+
+User
+0:42
+I am the sole owner 
+
+Agent
+0:45
+Are the original property documents available for verification?
+
+User
+0:49
+Yes. I have the original property documents. 
+
+Agent
+0:53
+How much would you like to borrow?
+
+User
+0:56
+I need rupees fifty lakh. 
+
+Agent
+0:59
+What do you do for work, and is your income received through a bank 
+
+User
+1:05
+I am salaried, 
+
+Agent
+1:04
+account or in cash?
+
+User
+1:06
+and my salary comes directly into my bank account. 
+
+Agent
+1:10
+What’s the estimated current market value of the property?
+
+User
+1:14
+It's worth around one crore. 
+
+Agent
+1:17
+How many years would you like to take to repay 
+
+User
+1:21
+I 
+
+Agent
+1:21
+the loan?
+
+User
+1:21
+would like a total of ten years. 
+
+Agent
+1:24
+You meet the preliminary criteria. A senior loan expert will contact you shortly with the exact interest rate and next steps. Thank you for your time.

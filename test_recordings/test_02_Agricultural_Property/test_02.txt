@@ -1,0 +1,27 @@
+Agent
+0:00
+Hello, may I speak with {{customer_name}}?
+
+User
+0:04
+Yes. 
+
+Agent
+0:05
+Thank you. I'm {{agent_name}} from {{company_name}}. I'm calling regarding a pre-approved Loan Against Property offer. Is this a good time to talk?
+
+User
+0:15
+Yes. I am free to talk now. 
+
+Agent
+0:17
+As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few quick questions to check suitability. Is the property residential, commercial, industrial, or agricultural?
+
+User
+0:31
+It's agricultural land. 
+
+Agent
+0:33
+I’m sorry, agricultural property isn’t eligible for this specific offer at this time. Thank you for your time.

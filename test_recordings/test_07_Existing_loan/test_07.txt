@@ -1,0 +1,43 @@
+Agent
+0:00
+Hello, may I speak with {{customer_name}}?
+
+User
+0:04
+Yes. I am the customer. 
+
+Agent
+0:06
+Thank you. I'm {{agent_name}} from {{company_name}}. I'm calling regarding a pre-approved Loan Against Property offer. Is this a good time to talk?
+
+User
+0:17
+Yes. I am free now. 
+
+Agent
+0:19
+As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few quick questions to see if it suits you. What type of property do you have: residential, commercial, industrial, or agricultural?
+
+User
+0:34
+It's a reservation cup, Kuti? 
+
+Agent
+0:36
+Could you clarify whether it’s a residential property, commercial property, industrial property, or agricultural land?
+
+User
+0:44
+It's a residential property. 
+
+Agent
+0:46
+Is the property solely owned by you, or jointly owned with someone else?
+
+User
+0:52
+Actually, I already have a loan against this property, and I want to reduce my EMI. 
+
+Agent
+0:59
+Since this relates to an existing property loan and reducing your EMI, a loan-transfer specialist will contact you shortly to assist further. Thank you for your time.
